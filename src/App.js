@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          hi here is njnix sever!
+          i was changed trivas!
         </p>
         <p>yes i was changed</p>
         <a
