@@ -9,7 +9,7 @@ function App() {
         <p>
           i was changed trivas!
         </p>
-        <p>yes i was changed</p>
+        <p>yes i was changed by feature</p>
         <a
           className="App-link"
           href="https://reactjs.org"
